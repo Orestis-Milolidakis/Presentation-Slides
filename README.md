@@ -8,6 +8,7 @@ Here are a few presentation slides I made during my studies. Specifically:
 ## Parameterized Algorithms
 
 **Parametrized hardness results for game theory:** If computing the nash-equilibrium is hard, then surely there must be fixed-parametre approaches to the problem. We go over Mahdi Parsa's paper.
+
 **Listing All Maximal Cliques in Sparse Graphs in Near-optimal Time:** If Max-clique is NP-complete, then why is printing all maximal cliques of a graph easy in practice? As it turns out, real worlds graph have low degeneracy, and printing all maximal cliques has a decent running time parameterized under degeneracy. We go over Eppstein, ooffler, and Strash's paper. In Greek. 
 
 ## Approximation Algorithms
