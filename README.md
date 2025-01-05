@@ -3,7 +3,7 @@
 Here are a few presentation slides I made during my studies. Specifically:
 
 ## Linear programming theory
-**Lower bounds on the sizes of integer programs without additional variables**: We often formulate combinatorical optimization problems as integer linear programs to solve them. Just how small can we make this program? We go over the paper of Kaibel and Weltge, and more recent results.
+**Lower bounds on the sizes of integer programs without additional variables**: We often formulate combinatorical optimization problems as integer linear programs to solve them. Just how "small" can we make this program? We go over the paper of Kaibel and Weltge, and more recent results.
 
 ## Parameterized Algorithms
 
